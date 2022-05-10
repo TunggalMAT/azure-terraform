@@ -11,5 +11,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "rg" {
     name = "gaguna"
-    location = "asia-south-east"
+    location = "southeastasia"
 }
